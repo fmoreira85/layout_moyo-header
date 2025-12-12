@@ -20,7 +20,7 @@ body {
   height: 40px;
 }
 
-header {
+.header {
   display: flex;
   justify-content: space-between;
   align-items: center;
@@ -47,7 +47,7 @@ header {
 }
 
 .nav__link:hover {
-  color: var(--color-primary);
+  color:var(--color-primary);
   text-decoration: none;
 }
 
